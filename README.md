@@ -1,1 +1,1 @@
-# orthogonal-optimisers
+# Orthogonal optimisers
